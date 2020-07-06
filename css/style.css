@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button-text.css");
+@import url("components/gradient-button.css");
+@import url("components/banner.css");
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body, p{
+	font-family: "Roboto", serif;
+	font-size: 10px;
+}
+
+h1, h2, h3, a{
+	font-family: "Lato", sans-serif;
+}
+
+a{
+	text-decoration: none;
+}

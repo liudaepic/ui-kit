@@ -1,0 +1,22 @@
+.banner{
+	background-image: url("../../images/Background.png");
+	background-size: cover;
+	background-position: center;
+	padding: 70px 0px;
+	text-align: center;
+}
+
+.banner p{
+	font-size: 15px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+	font-family: "Lato", sans-serif;
+	text-shadow: 3px 3px 3px rgb(0,0,0);
+}
+
+.banner h1{
+	color: white;
+	font-size: 70px;
+	text-shadow: 8px 8px 8px rgb(0,0,0);
+}
