@@ -1,6 +1,9 @@
-.container{
+.ui-container{
 	width: 700px;
-	margin: 0px auto;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 @media(max-width: 960px){
